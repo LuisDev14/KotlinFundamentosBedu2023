@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46998503-c313-488f-a612-92580f20722e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_curso_Bedu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sesion2/work/Ejercicio1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sesion2/work/Ejercicio2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sesion2/work/ejercicio3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sesion2/work/reto1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sesion2/work/reto3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,28 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Ejercicio3Kt">
+    <configuration name="Ejercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio1Kt" />
+      <module name="Kotlin_curso_Bedu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio2Kt" />
+      <module name="Kotlin_curso_Bedu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3Kt" />
+      <module name="Kotlin_curso_Bedu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PreworkKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PreworkKt" />
       <module name="Kotlin_curso_Bedu" />
@@ -50,8 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reto1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reto1Kt" />
+      <module name="Kotlin_curso_Bedu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ejercicio3Kt" />
+        <item itemvalue="Kotlin.Ejercicio2Kt" />
+        <item itemvalue="Kotlin.Reto1Kt" />
+        <item itemvalue="Kotlin.Ejercicio1Kt" />
         <item itemvalue="Kotlin.PreworkKt" />
       </list>
     </recent_temporary>
